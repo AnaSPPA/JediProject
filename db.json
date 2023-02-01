@@ -198,5 +198,10 @@
         "username": "ana",
         "password": "1234"
       }
+      {
+        "id" : 2,
+        "username": "paco",
+        "password": "5678"
+      }  
     ]
   }
