@@ -33,5 +33,13 @@
         "username": "paco",
         "password": "5678"
       }  
+    ],
+    "purchases" : [
+        {
+            "name": "iron-dagger",
+            "id" : 1,
+            "quantity": "2",
+            "total" : "4 gp"
+        }
     ]
   }
