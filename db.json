@@ -35,11 +35,5 @@
       }  
     ],
     "purchases" : [
-        {
-            "id" : "ae146439-2f64-491c-8208-215efe62137b",
-            "name": "iron-dagger",
-            "quantity": "2",
-            "total" : "4 gp"
-        }
     ]
   }
