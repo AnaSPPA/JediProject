@@ -1,21 +1,21 @@
 { 
     "products": [
         {
-            "id": 58c6daff-3a39-ada5-4ffc-c70658899855,
+            "id": "58c6daff-3a39-ada5-4ffc-c70658899855",
             "url": "https://preview.redd.it/baq71p45vp821.jpg?auto=webp&s=e5d3cc04a4d1811111ce80884ea95a30df3ea7c6",
             "title": "Iron Dagger",
             "desc": "A knife with a very sharp point and usually two sharp edges. Proficiency with a dagger allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
             "price": 2
         },
         {
-            "id": 79dc8bd0-4488-1e63-5624-44aefd9fd7c8,
+            "id": "79dc8bd0-4488-1e63-5624-44aefd9fd7c8",
             "url": "https://static.wikia.nocookie.net/darksouls/images/7/7f/Light_Crossbow_%28DSIII%29.png/revision/latest?cb=20160613022948",
             "title": "Light Crossbow",
             "desc": "A ranged weapon that uses an elastic launching device consisting of a bow-like assembly mounted horizontally on a main frame. Proficiency with a light crossbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
             "price": 25
         },
         {
-            "id": 9dcfd324-4212-9aba-37ce-231a336b3ba7,
+            "id": "9dcfd324-4212-9aba-37ce-231a336b3ba7",
             "url": "http://cdn.shopify.com/s/files/1/1565/1123/products/3683_3_600x600.jpg?v=1590481792",
             "title": "Handaxe",
             "desc": "A wood composite handle with a sharp edged head (called a 'bit'), typically made of iron or steel. Proficiency with a handaxe allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
@@ -24,12 +24,12 @@
     ],
     "users": [
       {
-        "id": fdea2e09-9820-a368-8c3c-ab692f3e1c0a,
+        "id": "fdea2e09-9820-a368-8c3c-ab692f3e1c0a",
         "username": "ana",
         "password": "1234"
       },
       {
-        "id" : b1fe32ad-45c0-95b9-e55a-34dd90ebe6f0,
+        "id" : "b1fe32ad-45c0-95b9-e55a-34dd90ebe6f0",
         "username": "paco",
         "password": "5678"
       }  
